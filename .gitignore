@@ -1,0 +1,6 @@
+product_pages/*
+__pycache__/*
+.idea/*
+*.pyc
+*.html
+*.json
